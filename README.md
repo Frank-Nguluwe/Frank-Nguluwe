@@ -2,9 +2,7 @@
 
 ### Data Science Graduate | Data Analyst | Business Analyst | Software Developer
 
-I’m a Data Science graduate from Mzuzu University interested in using
-data, technology, and software to solve real-world problems and support
-data-driven decision-making.
+I'm a Data Science graduate from Mzuzu University interested in using data, technology, and software to solve real-world problems and support data-driven decision-making.
 
 ---
 
@@ -17,7 +15,9 @@ data-driven decision-making.
 - 💻 Develop web applications and REST APIs
 - 📈 Apply statistical methods to research and monitoring & evaluation
 
-  ## 🛠️ Technologies & Tools
+---
+
+## 🛠️ Technologies & Tools
 
 **Languages & Data**
 
@@ -32,6 +32,12 @@ data-driven decision-making.
 `Scikit-learn` `spaCy` `Machine Learning` `NLP`
 
 **Software Development**
+
+`FastAPI` `React` `TypeScript` `PostgreSQL` `REST APIs`
+
+**Tools**
+
+`Git` `GitHub` `Jupyter` `KoboToolbox`
 
 `FastAPI` `React` `TypeScript` `PostgreSQL` `REST APIs`
 
