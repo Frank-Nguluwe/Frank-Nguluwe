@@ -74,8 +74,6 @@ A natural language processing project focused on recognizing health-related enti
 
 **Technologies:** Python, spaCy, NLP, FastAPI
 
-🔗 [View Repository](https://github.com/Frank-Nguluwe/chichewa-health-ner)
-
 ---
 
 ### 📊 Customer Churn Analysis
