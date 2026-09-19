@@ -88,7 +88,19 @@ A data analytics and machine learning project analyzing customer behavior and id
 
 A data engineering and business intelligence project focused on transforming retail data into a structured analytical data warehouse for reporting and decision-making.
 
-**Technologies:** SQL, Data Warehousing, ETL, Power BI
+**Technologies:** SQL, Data Warehousing, ETL, Power BI 
+
+## 📚 Publications
+
+### 📝 Socioeconomic inequalities in underweight, overweight, and obesity among women in Malawi
+
+**Journal:** *BMC Nutrition*  
+**Published:** 28 August 2026  
+**DOI:** [10.1186/s40795-026-01469-z](https://doi.org/10.1186/s40795-026-01469-z)
+
+A cross-sectional analysis examining socioeconomic inequalities and determinants of underweight, overweight, and obesity among women in Malawi using data from the 2024 Malawi Demographic and Health Survey.
+
+🔗 [Read the published article](https://doi.org/10.1186/s40795-026-01469-z)
 
 ## 🎓 Education
 
