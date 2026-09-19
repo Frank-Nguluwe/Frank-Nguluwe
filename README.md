@@ -35,5 +35,94 @@ I'm a Data Science graduate from Mzuzu University interested in using data, tech
 
 `Git` `GitHub` `Jupyter` `KoboToolbox`
 
+## 🚀 Featured Projects
+
+### 🌾 CUMO Agri-Loan Prediction System
+
+A machine learning and full-stack application developed to support loan assessment for smallholder farmers.
+
+**Technologies:** Python, Machine Learning, FastAPI, React, TypeScript, PostgreSQL
+
+🔗 [Backend](https://github.com/Frank-Nguluwe/agri-loan-final-project-backend)  
+🔗 [Frontend](https://github.com/Frank-Nguluwe/agri-loan-project-frontend)
+
+---
+
+### 🏠 N&F Properties
+
+A full-stack real-estate and vehicle-rental platform currently under development, with property management, authentication, authorization, ownership controls, and image management.
+
+**Technologies:** FastAPI, PostgreSQL, SQLAlchemy, Alembic, React, TypeScript
+
+🚧 Private project — actively under development
+
+---
+
+### 📰 Chichewa News Dataset & NLP
+
+A project focused on collecting and preparing Chichewa news data for natural language processing and generative AI applications.
+
+**Technologies:** Python, Web Scraping, NLP, Data Processing
+
+🔗 [View Repository](https://github.com/Frank-Nguluwe/chichewa-news-scraper)
+
+---
+
+### 🧠 Chichewa Health NER
+
+A natural language processing project focused on recognizing health-related entities in Chichewa text.
+
+**Technologies:** Python, spaCy, NLP, FastAPI
+
+🔗 [View Repository](https://github.com/Frank-Nguluwe/chichewa-health-ner)
+
+---
+
+### 📊 Customer Churn Analysis
+
+A data analytics and machine learning project analyzing customer behavior and identifying factors associated with customer churn.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Data Visualization
+
+---
+
+### 🏦 Retail Data Warehouse
+
+A data engineering and business intelligence project focused on transforming retail data into a structured analytical data warehouse for reporting and decision-making.
+
+**Technologies:** SQL, Data Warehousing, ETL, Power BI
+
+## 🎓 Education
+
+**BSc Data Science**  
+Mzuzu University  
+**Upper Second Class**
+
+---
+
+## 🎯 Areas of Interest
+
+- Data Analytics & Business Intelligence
+- Business Analysis
+- Data Engineering
+- Machine Learning & Artificial Intelligence
+- Software Development
+- Research & Monitoring & Evaluation
+- Financial Analytics
+- Health & Development Data
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 [Portfolio](https://frank-nguluwe.vercel.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/frank-nguluwe-859477274/)
+- 🔬 [ORCID](https://orcid.org/0009-0003-6322-3359)
+- 🐙 [GitHub](https://github.com/Frank-Nguluwe)
+
+---
+
+⭐ Thanks for visiting my profile!
+
 
 
