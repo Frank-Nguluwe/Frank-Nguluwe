@@ -37,7 +37,4 @@ I'm a Data Science graduate from Mzuzu University interested in using data, tech
 
 `FastAPI` `React` `TypeScript` `PostgreSQL` `REST APIs`
 
-**Tools**
-
-`Git` `GitHub` `Jupyter` `KoboToolbox` 
 
