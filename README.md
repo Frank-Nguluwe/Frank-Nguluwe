@@ -1,6 +1,6 @@
 # Hi, I'm Frank Nguluwe 👋
 
-### Data Science Graduate | Data Analyst | Business Analyst | Software Developer
+### Data Science Graduate | Data Analyst | Business Analyst | Software Developer |Research, Monitoring And Evaluation 
 
 I'm a Data Science graduate from Mzuzu University interested in using data, technology, and software to solve real-world problems and support data-driven decision-making.
 
