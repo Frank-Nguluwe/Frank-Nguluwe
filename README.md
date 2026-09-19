@@ -4,8 +4,6 @@
 
 I'm a Data Science graduate from Mzuzu University interested in using data, technology, and software to solve real-world problems and support data-driven decision-making.
 
----
-
 ## What I Do
 
 - 📊 Analyze data and build dashboards for decision-making
@@ -14,8 +12,6 @@ I'm a Data Science graduate from Mzuzu University interested in using data, tech
 - 🏗️ Build data pipelines, databases, and analytical systems
 - 💻 Develop web applications and REST APIs
 - 📈 Apply statistical methods to research and monitoring & evaluation
-
----
 
 ## 🛠️ Technologies & Tools
 
