@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Frank Nguluwe 👋
 
-<!--
-**Frank-Nguluwe/Frank-Nguluwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Science Graduate | Data Analyst | Business Analyst | Software Developer
 
-Here are some ideas to get you started:
+I’m a Data Science graduate from Mzuzu University interested in using
+data, technology, and software to solve real-world problems and support
+data-driven decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Do
+
+- 📊 Analyze data and build dashboards for decision-making
+- 🔎 Explore data to identify trends, patterns, and actionable insights
+- 🤖 Develop machine learning solutions for real-world problems
+- 🏗️ Build data pipelines, databases, and analytical systems
+- 💻 Develop web applications and REST APIs
+- 📈 Apply statistical methods to research and monitoring & evaluation
+
+  ## 🛠️ Technologies & Tools
+
+**Languages & Data**
+
+`Python` `R` `SQL` `Excel`
+
+**Analytics & Visualization**
+
+`Power BI` `Pandas` `NumPy` `SPSS` `Stata`
+
+**Machine Learning**
+
+`Scikit-learn` `spaCy` `Machine Learning` `NLP`
+
+**Software Development**
+
+`FastAPI` `React` `TypeScript` `PostgreSQL` `REST APIs`
+
+**Tools**
+
+`Git` `GitHub` `Jupyter` `KoboToolbox` 
+
