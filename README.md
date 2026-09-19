@@ -11,7 +11,7 @@ I'm a Data Science graduate from Mzuzu University interested in using data, tech
 - 🤖 Develop machine learning solutions for real-world problems
 - 🏗️ Build data pipelines, databases, and analytical systems
 - 💻 Develop web applications and REST APIs
-- 📈 Apply statistical methods to research and monitoring & evaluation
+- 📈 Apply statistical methods to research, monitoring & evaluation, and data-driven decision-making
 
 ## 🛠️ Technologies & Tools
 
@@ -35,6 +35,5 @@ I'm a Data Science graduate from Mzuzu University interested in using data, tech
 
 `Git` `GitHub` `Jupyter` `KoboToolbox`
 
-`FastAPI` `React` `TypeScript` `PostgreSQL` `REST APIs`
 
 
